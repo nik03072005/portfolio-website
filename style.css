@@ -339,13 +339,13 @@ color: var(--primary-pink);
     background-image: url(assets/3.png) ;
 }
 .portfolio-card:nth-child(4){
-    background-image: url(assets/1.png) ;
+    background-image: url(assets/4.png) ;
 }
 .portfolio-card:nth-child(5){
-    background-image: url(assets/2.png) ;
+    background-image: url(assets/4.png) ;
 }
 .portfolio-card:nth-child(6){
-    background-image: url(assets/3.png) ;
+    background-image: url(assets/4.png) ;
 }
 .portfolio-card::before{
     content: "";
